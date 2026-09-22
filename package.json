@@ -1,0 +1,26 @@
+{
+  "name": "secag6",
+  "version": "1.0.0",
+  "description": "midterms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimsn/group_6_secA.git"
+  },
+  "keywords": [
+    "sia",
+    "midterms"
+  ],
+  "author": "group6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimsn/group_6_secA/issues"
+  },
+  "homepage": "https://github.com/nimsn/group_6_secA#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
